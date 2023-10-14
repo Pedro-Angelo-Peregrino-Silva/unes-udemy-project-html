@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+.body-index1 {
+    background-image: url("../img/fundo2.png");
+    background-repeat: repeat-x;
+}
+
+.img-home {
+    width: 66.1%;
+    
+}
+
+.bg-img-home {
+    background-color: rgb(235, 233, 233);
+}
+
+.titulo {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text-home {
+    text-align: justify;
+    letter-spacing: 1.5px;
+    margin-top: 10px;
+    border: solid;
+
+}
